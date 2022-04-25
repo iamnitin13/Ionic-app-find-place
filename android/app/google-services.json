@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104207745090",
+    "firebase_url": "https://apna9city-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apna9city",
+    "storage_bucket": "apna9city.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104207745090:android:265db8de809b2025b26ddb",
+        "android_client_info": {
+          "package_name": "com.ionic.ap9city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104207745090-n0a5gvn4jqphiifnrgm0fbe6ejdf8mk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4lR8QQ6VvVS34clSWe0Ix4nR3-t6rr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104207745090-n0a5gvn4jqphiifnrgm0fbe6ejdf8mk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
