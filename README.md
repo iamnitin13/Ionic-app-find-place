@@ -4,7 +4,7 @@
 
 Ionic+Capacitor based project for exploring ionic with the existing known framework angular.
 
-Firbase realtime datebase, firebase storgae, google map and firebase deployment.
+Firebase realtime datebase, firebase storgae, google map and firebase deployment.
 
 Device native feature :- Storage, Camera, Location, Splash Screen.
 
